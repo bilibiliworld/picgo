@@ -1,5 +1,5 @@
 {
-    "schedule": "daily"
-    "minKBReduced": 50
-    “aggressiveCompression”: true
+    "schedule": "daily",
+    "aggressiveCompression": "true",
+    "minKBReduced": 50, 
 }
